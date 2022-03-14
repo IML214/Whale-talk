@@ -1,0 +1,15 @@
+var input = ['You don t understand me.'];
+
+var vowels = ['u', 'e', 'i', 'a', 'o'];
+
+var resultArray = [];
+
+for (let i = 0; i < input.length; i++) {
+    console.log(input);
+
+    for (let j = 0; j < vowels.length; j++) {
+        console.log(vowels);
+        
+    }
+    
+}
